@@ -161,6 +161,7 @@ a:visited {
 
 .banner-bottom{
     gap: .6em;
+    padding-bottom: .4em;
 }
 
 .user-greeting{
@@ -205,7 +206,7 @@ a:visited {
     border-radius: 1em;
     width: 6em;
     height: 2em;
-    margin: .5em;
+    margin: 0 .5em;
 }
 
 .content{
