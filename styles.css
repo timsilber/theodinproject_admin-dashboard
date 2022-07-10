@@ -157,6 +157,9 @@ a:visited {
     object-fit: cover;
 }
 
+.banner-bottom{
+    gap: .6em;
+}
 
 .user-greeting{
     display: grid;
